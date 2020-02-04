@@ -1,0 +1,9 @@
+﻿  Course_work_sem3.cpp
+  Generator.cpp
+D:\VSprojects\Course_work_sem3\Course_work_sem3\Course_work_sem3.cpp(21,20): warning C4101:  e: неиспользованная локальная переменная
+D:\VSprojects\Course_work_sem3\Course_work_sem3\Generator.cpp(8,20): warning C4018:  <: несоответствие типов со знаком и без знака
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 222 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Course_work_sem3.vcxproj -> D:\VSprojects\Course_work_sem3\Release\Course_work_sem3.exe
